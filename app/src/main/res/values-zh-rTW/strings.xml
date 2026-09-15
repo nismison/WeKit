@@ -1845,6 +1845,7 @@
     <string name="chat_auto_cache_files_blacklist_description">對選中聯繫人跳過緩存文件</string>
     <string name="chat_auto_cache_images_whitelist_description">僅對選中聯繫人緩存圖片</string>
     <string name="chat_auto_cache_images_blacklist_description">對選中聯繫人跳過緩存圖片</string>
+    <string name="chat_auto_speech_to_text_blacklist_description">對選中聊天跳過語音轉文字</string>
     <string name="filter_list_whitelist_selected">黑名單 [→ 白名單 ←]</string>
     <string name="filter_list_blacklist_selected">[→ 黑名單 ←] 白名單</string>
     <string name="filter_list_select_whitelist">選擇白名單</string>

@@ -46,5 +46,8 @@ local.properties
 docs/superpowers/
 .worktrees/
 
+# Local agent workspace state
+/.zcode/
+
 # Extension-pack build outputs (./x extensions pack/lock)
 dist/
