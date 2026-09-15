@@ -1895,6 +1895,7 @@
     <string name="chat_auto_cache_files_blacklist_description">Skip file caching for selected contacts</string>
     <string name="chat_auto_cache_images_whitelist_description">Cache images only for selected contacts</string>
     <string name="chat_auto_cache_images_blacklist_description">Skip image caching for selected contacts</string>
+    <string name="chat_auto_speech_to_text_blacklist_description">Skip voice-to-text for selected chats</string>
     <string name="filter_list_whitelist_selected">Blacklist [→ Whitelist ←]</string>
     <string name="filter_list_blacklist_selected">[→ Blacklist ←] Whitelist</string>
     <string name="filter_list_select_whitelist">Select whitelist</string>
